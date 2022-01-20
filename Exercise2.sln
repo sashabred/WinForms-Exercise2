@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "TestList\TestLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinContainer", "WinContainer\WinContainer.csproj", "{6860BFC9-68D2-4BAE-ADCB-701C673315DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblWorm", "BiblWorm\BiblWorm.csproj", "{3B588D43-627B-4326-9FA8-9F62EAC6EF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "RegistrationForm\RegistrationForm.csproj", "{3CB3D09A-608F-4C71-8A81-291C637634AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6860BFC9-68D2-4BAE-ADCB-701C673315DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6860BFC9-68D2-4BAE-ADCB-701C673315DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6860BFC9-68D2-4BAE-ADCB-701C673315DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B588D43-627B-4326-9FA8-9F62EAC6EF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B588D43-627B-4326-9FA8-9F62EAC6EF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B588D43-627B-4326-9FA8-9F62EAC6EF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B588D43-627B-4326-9FA8-9F62EAC6EF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB3D09A-608F-4C71-8A81-291C637634AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB3D09A-608F-4C71-8A81-291C637634AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB3D09A-608F-4C71-8A81-291C637634AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB3D09A-608F-4C71-8A81-291C637634AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
