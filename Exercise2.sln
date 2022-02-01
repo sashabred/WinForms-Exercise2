@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinQuestion", "Exercise2\WinQuestion.csproj", "{6E8B8E65-3F80-4152-A32C-80DCCE5AC65C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinQuestion", "Lab2\Exercise2\WinQuestion.csproj", "{6E8B8E65-3F80-4152-A32C-80DCCE5AC65C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "TestList\TestList.csproj", "{1B91C4FF-6DFA-479E-B8C5-0B9908D1DB60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "Lab2\TestList\TestList.csproj", "{1B91C4FF-6DFA-479E-B8C5-0B9908D1DB60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinContainer", "WinContainer\WinContainer.csproj", "{6860BFC9-68D2-4BAE-ADCB-701C673315DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinContainer", "Lab2\WinContainer\WinContainer.csproj", "{6860BFC9-68D2-4BAE-ADCB-701C673315DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblWorm", "BiblWorm\BiblWorm.csproj", "{3B588D43-627B-4326-9FA8-9F62EAC6EF09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblWorm", "Lab2\BiblWorm\BiblWorm.csproj", "{3B588D43-627B-4326-9FA8-9F62EAC6EF09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "RegistrationForm\RegistrationForm.csproj", "{3CB3D09A-608F-4C71-8A81-291C637634AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "Lab2\RegistrationForm\RegistrationForm.csproj", "{3CB3D09A-608F-4C71-8A81-291C637634AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
