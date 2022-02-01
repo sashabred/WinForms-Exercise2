@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinQuestion", "Lab2\Exercise2\WinQuestion.csproj", "{6E8B8E65-3F80-4152-A32C-80DCCE5AC65C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinQuestion", "Lab2\Exc2WinQuestion\WinQuestion.csproj", "{6E8B8E65-3F80-4152-A32C-80DCCE5AC65C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestList", "Lab2\TestList\TestList.csproj", "{1B91C4FF-6DFA-479E-B8C5-0B9908D1DB60}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblWorm", "Lab2\BiblWorm\BiblWorm.csproj", "{3B588D43-627B-4326-9FA8-9F62EAC6EF09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationForm", "Lab2\RegistrationForm\RegistrationForm.csproj", "{3CB3D09A-608F-4C71-8A81-291C637634AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{22F279F6-190B-4E14-ACF4-0F71144E2499}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E8B8E65-3F80-4152-A32C-80DCCE5AC65C} = {22F279F6-190B-4E14-ACF4-0F71144E2499}
+		{1B91C4FF-6DFA-479E-B8C5-0B9908D1DB60} = {22F279F6-190B-4E14-ACF4-0F71144E2499}
+		{6860BFC9-68D2-4BAE-ADCB-701C673315DC} = {22F279F6-190B-4E14-ACF4-0F71144E2499}
+		{3B588D43-627B-4326-9FA8-9F62EAC6EF09} = {22F279F6-190B-4E14-ACF4-0F71144E2499}
+		{3CB3D09A-608F-4C71-8A81-291C637634AA} = {22F279F6-190B-4E14-ACF4-0F71144E2499}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC8B597C-FD0F-4B64-AC76-B3EACAAFCE9A}
